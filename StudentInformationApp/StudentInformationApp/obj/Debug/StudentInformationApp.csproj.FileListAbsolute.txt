@@ -1,0 +1,6 @@
+G:\19-Dec-2014\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+G:\19-Dec-2014\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+G:\19-Dec-2014\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+G:\19-Dec-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csprojResolveAssemblyReference.cache
+G:\19-Dec-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+G:\19-Dec-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb

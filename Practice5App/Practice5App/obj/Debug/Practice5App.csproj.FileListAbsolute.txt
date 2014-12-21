@@ -1,0 +1,9 @@
+G:\19-Dec-2014\Practice5App\Practice5App\bin\Debug\Practice5App.exe.config
+G:\19-Dec-2014\Practice5App\Practice5App\obj\Debug\Practice5App.csprojResolveAssemblyReference.cache
+G:\19-Dec-2014\Practice5App\Practice5App\obj\Debug\Practice5App.Form1.resources
+G:\19-Dec-2014\Practice5App\Practice5App\obj\Debug\Practice5App.Properties.Resources.resources
+G:\19-Dec-2014\Practice5App\Practice5App\obj\Debug\Practice5App.csproj.GenerateResource.Cache
+G:\19-Dec-2014\Practice5App\Practice5App\bin\Debug\Practice5App.exe
+G:\19-Dec-2014\Practice5App\Practice5App\bin\Debug\Practice5App.pdb
+G:\19-Dec-2014\Practice5App\Practice5App\obj\Debug\Practice5App.exe
+G:\19-Dec-2014\Practice5App\Practice5App\obj\Debug\Practice5App.pdb

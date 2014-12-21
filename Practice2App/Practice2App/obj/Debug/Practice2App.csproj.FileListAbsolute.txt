@@ -1,0 +1,9 @@
+G:\19-Dec-2014\Practice2App\Practice2App\bin\Debug\Practice2App.exe.config
+G:\19-Dec-2014\Practice2App\Practice2App\bin\Debug\Practice2App.exe
+G:\19-Dec-2014\Practice2App\Practice2App\bin\Debug\Practice2App.pdb
+G:\19-Dec-2014\Practice2App\Practice2App\obj\Debug\Practice2App.csprojResolveAssemblyReference.cache
+G:\19-Dec-2014\Practice2App\Practice2App\obj\Debug\Practice2App.Form1.resources
+G:\19-Dec-2014\Practice2App\Practice2App\obj\Debug\Practice2App.Properties.Resources.resources
+G:\19-Dec-2014\Practice2App\Practice2App\obj\Debug\Practice2App.csproj.GenerateResource.Cache
+G:\19-Dec-2014\Practice2App\Practice2App\obj\Debug\Practice2App.exe
+G:\19-Dec-2014\Practice2App\Practice2App\obj\Debug\Practice2App.pdb

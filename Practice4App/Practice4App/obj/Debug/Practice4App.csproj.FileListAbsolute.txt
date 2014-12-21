@@ -1,0 +1,6 @@
+G:\19-Dec-2014\Practice4App\Practice4App\bin\Debug\Practice4App.exe.config
+G:\19-Dec-2014\Practice4App\Practice4App\bin\Debug\Practice4App.exe
+G:\19-Dec-2014\Practice4App\Practice4App\bin\Debug\Practice4App.pdb
+G:\19-Dec-2014\Practice4App\Practice4App\obj\Debug\Practice4App.csprojResolveAssemblyReference.cache
+G:\19-Dec-2014\Practice4App\Practice4App\obj\Debug\Practice4App.exe
+G:\19-Dec-2014\Practice4App\Practice4App\obj\Debug\Practice4App.pdb
